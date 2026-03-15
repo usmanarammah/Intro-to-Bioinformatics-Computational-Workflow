@@ -24,8 +24,8 @@ demonstrates the use of essential bioinformatics practices including:
 | S/N | Name | Matric Number | Email | GitHub Username | Area of Interest | Language |
 |-----|------|--------------|-------|----------------|-----------------|----------|
 | 1 | Usman Abdullahi | BASUG/UG/BMS/ANA/22/6709 | bandivlopoi@gmail.com | @usmanarammah | Epigenomics | Python |
-| 2 | Fatima Suleiman Jibrin | BASUG/UG/BMS/ANA/22/3625 | fsuleimanjibrin@gmail.com | TBD | Genomics | Perl |
-| 3 | Sulaiman Adamu Umar | TBD | umarsulaimanadamu5@gmail.com | @sulaimanshooter | Proteomics | R |
+| 2 | Fatima Suleiman Jibrin | BASUG/UG/BMS/ANA/22/3625 | fsuleimanjibrin@gmail.com | @fatibima | Genomics | Perl |
+| 3 | Sulaiman Adamu Umar | BASUG/UG/S/ANA/22/7575 | umarsulaimanadamu5@gmail.com | @sulaimanshooter | Proteomics | R |
 | 4 | Umar Alhassan Yarima | BASUG/UG/BMS/ANA/22/4271 | yarincetech@gmail.com | @yarincenation | Transcriptomics | Java |
 | 5 | TBD | TBD | TBD | TBD | TBD | TBD |
 
